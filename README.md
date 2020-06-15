@@ -1,7 +1,7 @@
 # Plan de respuesta a incidente
 
 #### ¿Qué es un plan de respuesta a incidentes?
-Un IRP (*Incident Response Plan*) se puede definir como una guiá o plan de acción que se debe seguir en el caso de que se presente una violación de ciberseguridad. Este se conforma de pasos o instrucciones diseñadas para minimizar el impacto del incidente de ciberseguirdad que se  presente sin verse afectada en los procesos de negocio o con un mínimo impacto sobre el mismo. Dentro de este *IRP* deben ir documentadas las actividades planeadas para reaccionar contra amenazas de ciberseguridad.
+Un IRP (*Incident Response Plan*) se puede definir como una guiá o plan de acción que se debe seguir en el caso de que se presente una violación de ciberseguridad. Este se conforma de pasos o instrucciones diseñadas para minimizar el impacto del incidente de ciberseguridad que se  presente sin verse afectada en los procesos de negocio o con un mínimo impacto sobre el mismo. Dentro de este *IRP* deben ir documentadas las actividades planeadas para reaccionar contra amenazas de ciberseguridad.
 
 Debido a que todas las organizaciones son muy diferentes en cuanto a procesos y políticas el diseño de un *IRP* de igual manera debe  ser adaptado hacia los procesos informáticos que contenga la organización, diseñando un plan efectivo ante cualquier amenaza que pueda presentarse en actividades ya contempladas. Aún sabiendo que un *IRP* es único entre cada organización existen estándares que apoyan como guiás para el desarrollo del plan, estas desarrollan un plan con los mismo pasos o puntos pero siempre adaptados a las necesidades de la organización.
 
@@ -61,7 +61,7 @@ Durante el incidente es prioritario identificar los servidores que están siendo
 
 **Actividades post-incidente**
 
-Como punto importante se analiza la **Lección aprendida** donde se analiźan las debilidades de ciberseguridad, se comprenden nuevas vulnerabilidades y se desarrollan nuevas técnicas de protección, en caso de múltiples incidentes se pueden cubrir dentro de una sola reunión de *Lección aprendida*, esto para obtener conclusiones y desarrollar técnicas generales que mejoren la ciberseguridad.
+Como punto importante se analiza la **Lección aprendida** donde se analizan las debilidades de ciberseguridad, se comprenden nuevas vulnerabilidades y se desarrollan nuevas técnicas de protección, en caso de múltiples incidentes se pueden cubrir dentro de una sola reunión de *Lección aprendida*, esto para obtener conclusiones y desarrollar técnicas generales que mejoren la ciberseguridad.
 
 ---
 #### Conociendo el estándar presentado por sans
@@ -101,7 +101,7 @@ el punto más crítico dentro del *IRP* seria este, el cual consiste en la docum
 #### Recomendación final
 Ya hemos visto las diferencias a muy grandes rasgos entre ambos estándares oficiales, pero como se mencionó anteriormente no hay un favorito general al momento de diseñar el *IRP* deseado, por lo que es algo que deberá ser decidido por el equípo de seguridad de la organización que lo requiera.
 
-Para próximas referencias se desarrollará cm¿omo ejemplo un *IRP* de ejemplo utilizando ambos estándares para comprender su desarrollo y analizar las diferencias entre sus puntos, esto igual apoyara a cualquier entusiasta a tener una guiá al momento de desarrollar su propio *IRP* personalizado para sus necesidades.
+Para próximas referencias se desarrollará como ejemplo un *IRP* de ejemplo utilizando ambos estándares para comprender su desarrollo y analizar las diferencias entre sus puntos, esto igual apoyara a cualquier entusiasta a tener una guiá al momento de desarrollar su propio *IRP* personalizado para sus necesidades.
 
 ---
 Referencias:
